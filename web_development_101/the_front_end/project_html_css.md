@@ -88,7 +88,7 @@ Submit a pull request with a link to your solution in this [file](https://github
   <summary> Show Student Solutions </summary>
 
 * Add your solution below this list
-* [Ammar Seliaman's Solution (Easy)](https://github.com/Am00702/Google-replica) - [View in Browser](https://am00702.github.io/Google-replica/)
+* [Ammar Seliaman's Solution (Easy)](https://github.com/Am00702/Google-replica) - [View in Browser](
 * [David Tan's Solution (Easy)](https://github.com/davecmd/google-homepage) - [View in Browser](https://davecmd.github.io/google-homepage/)
 * [Jagdeep's Solution (Easy)](https://github.com/Jsran98/google-homepage) - [View in Browser](https://jsran98.github.io/google-homepage/)
 * [Jitendra's Solution (Easy)](https://github.com/jitendrrathore/google-homepage) - [View in Browser](https://jitendrrathore.github.io/google-homepage/)
@@ -2274,7 +2274,9 @@ Submit a pull request with a link to your solution in this [file](https://github
 * [Chris M's Solution (Easy)](https://github.com/chris-mahmood/google-homepage) - [View in browser](https://chris-mahmood.github.io/google-homepage/)
 * [ohsjc's Solution (Easy)](https://github.com/ohsjc/google-homepage) - [View in browser](https://ohsjc.github.io/google-homepage/)
 * [Mike D's Solution (Easy)](https://github.com/ipcmlr/google-homepage) - [View in browser](https://ipcmlr.github.io/google-homepage/)
+* [Keith P's Solution (Easy)](https://github.com/KeithPrinkey/google-homepage) - [View in Browser](https://keithprinkey.github.io/google-homepage/) 
 </details>
+
 
 ### Additional Resources
 This section contains helpful links to other content. It isn't required, so consider it supplemental for if you need to dive deeper into something.
